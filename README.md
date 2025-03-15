@@ -91,4 +91,3 @@ cd Full-Stack-RAG-Q-A-Chatbot
 #RAG #AI #Chatbot #DocumentQA #FastAPI #React #FAISS #ChromaDB
 
 Developed by Tharun Baikani.
-```
