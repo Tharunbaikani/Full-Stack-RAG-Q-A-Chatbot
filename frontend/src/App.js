@@ -108,7 +108,7 @@ function App() {
 
   return (
     <div className="chat-container">
-      <h1 className="chat-title">🧠 AI Chatbot</h1>
+      <h1 className="chat-title">📄AI DocuBot</h1>
 
       <div className="file-upload">
         <input type="file" id="file-input"onChange={handleFileChange} hidden />
