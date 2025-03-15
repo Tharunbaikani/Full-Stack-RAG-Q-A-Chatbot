@@ -88,7 +88,7 @@ cd Full-Stack-RAG-Q-A-Chatbot
 
 ---
 
-## 📝 License
+#RAG #AI #Chatbot #DocumentQA #FastAPI #React #FAISS #ChromaDB
 
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+Developed by Tharun Baikani.
 ```
